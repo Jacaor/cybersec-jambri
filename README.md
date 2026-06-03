@@ -2,7 +2,7 @@
 Técnico en formación • Ciberseguridad • Grupo 2026 • Santo Domingo, RD
 
 📊 Progreso del curso
-#             Tema      Estado     Entregable
+
 S0	Setup y configuración	✅ Completado	—
 S1	Redes I: TCP/IP, Subnetting	⬜ Pendiente	—
 S2	Redes II: DNS, VPN, TLS	⬜ Pendiente	—
