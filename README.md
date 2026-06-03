@@ -41,7 +41,7 @@
 ## 📬 Contacto
 
 - 🐙 GitHub: [github.com/Jacaor](https://github.com/Jacaor)
-
+- 🇩🇴 Ubicación: Santo Domingo, RD
 ---
 
 *Actualizado: Junio 2026*
